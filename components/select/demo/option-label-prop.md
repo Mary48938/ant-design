@@ -35,13 +35,13 @@ ReactDOM.render(
       <span role="img" aria-label="China">
         🇨🇳{' '}
       </span>
-      China (中国)
+      被减体积-BJTJ (中国)
     </Option>
     <Option value="usa" label="USA">
       <span role="img" aria-label="USA">
         🇺🇸{' '}
       </span>
-      USA (美国)
+      扣减体积-KJTJ (美国)
     </Option>
     <Option value="japan" label="Japan">
       <span role="img" aria-label="USA">
